@@ -15,4 +15,4 @@ With the above rising issues stated in the existing system, the work focuses on 
 visualizations, forecasting models, increase of cases, deaths & recoveries on daily basis. All these concepts involve the idea of Machine Learning algorithms, the
 time series forecasting models, & Web Scraping.<br>
 
-<h3><b>High Level System Design</b></h3><br>
+<h3><b>Results</b></h3><br>
