@@ -29,4 +29,11 @@ statistical data. It captures the distinct level of profane structures. <br>
 Expansion of Acronym –
 i)<b>AR: Autoregression </b>– specifies the relation among some random observations & lagged observations.<br>
 ii)<b> I: Integrated </b>– involves differentiating the raw observations.<br>
-iii)<b> MA: Moving Average </b>– it is dependent on two factors: Observations & the residual errors.
+iii)<b> MA: Moving Average </b>– it is dependent on two factors: Observations & the residual errors.<br>
+
+<h3><b>Conclusion</b></h3>
+The proposed project aims to provide the users with knowledge & insights of the rise in the number of confirmed cases & the deaths happening. The people have to
+take necessary precautionary measures like inhibiting the social distancing activity, avoiding unnecessary roaming, wearing face mask, keeping ourselves sanitized.
+The main aim is the proposed system provides with the forecasting graphs and its corresponding values through which necessary actions can be taken. The graphs that
+helps in predicting the forecast values indicate a sign of danger in India and Karnataka, the actual cases cross the line of mark from the predicted value.
+Thus stay at home and be safe...!
