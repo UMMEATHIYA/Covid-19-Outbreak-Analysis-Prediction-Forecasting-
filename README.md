@@ -1,5 +1,5 @@
 # Covid-19-Outbreak-Analysis-Prediction-Forecasting
-
+<h2><b>*Note:-I have designed this project using Flask app (Mainframe API), HTML, CSS, Django to generate dynamic charts and python programming language!*</b></h2>
 <h3><b> Overview </b></h3><br>
 COVID 19 which is also known as Acute Respiratory Syndrome CoronaVirus 2 (SARS-CoV-2). The virus which started showing up late November 2019 in Mainland China. The
 primary host of this spreading virus are bats (Chiroptera). Humans feeding on bats or the intermediate hosts are the carriers of this virus. The spread of virus is so
