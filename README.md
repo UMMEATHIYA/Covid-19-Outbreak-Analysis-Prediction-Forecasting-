@@ -15,10 +15,10 @@ With the above rising issues stated in the existing system, the work focuses on 
 visualizations, forecasting models, increase of cases, deaths & recoveries on daily basis. All these concepts involve the idea of Machine Learning algorithms, the
 time series forecasting models, & Web Scraping.<br>
 
-<h3><b>Implementation</b></h3><br>
+<h3><b>Implementation</b></h3>
 <h4><b>FB Prophet Model</b></h4><br>
 FB Prophet Model is one the Machine Learning Model used in forecasting with the statistical data. This model is an additive model which basically fits the data on
 yearly, weekly, daily seasonality, & holiday effects. These are sinewy to missing data and capable of handling the outliers.<br>
 The basic characteristics of Prophet Model are –
-i)<b> Accurate & Fast</b> – which produces effective, reliable forecasts & is sheer goal setter.
-ii)<b> Fully Automatic</b> – analyses of drastic change in the time series graphs & handles the outliers or the missing data.
+i)<b> Accurate & Fast</b> – which produces effective, reliable forecasts & is sheer goal setter.<br>
+ii)<b> Fully Automatic</b> – analyses of drastic change in the time series graphs & handles the outliers or the missing data.<br>
