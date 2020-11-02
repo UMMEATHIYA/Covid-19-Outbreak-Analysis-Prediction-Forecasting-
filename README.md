@@ -16,9 +16,17 @@ visualizations, forecasting models, increase of cases, deaths & recoveries on da
 time series forecasting models, & Web Scraping.<br>
 
 <h3><b>Implementation</b></h3>
-<h4><b>FB Prophet Model</b></h4><br>
+<h4><b>i) FB Prophet Model</b></h4><br>
 FB Prophet Model is one the Machine Learning Model used in forecasting with the statistical data. This model is an additive model which basically fits the data on
 yearly, weekly, daily seasonality, & holiday effects. These are sinewy to missing data and capable of handling the outliers.<br>
 The basic characteristics of Prophet Model are –
 i)<b> Accurate & Fast</b> – which produces effective, reliable forecasts & is sheer goal setter.<br>
 ii)<b> Fully Automatic</b> – analyses of drastic change in the time series graphs & handles the outliers or the missing data.<br>
+
+<h4><b>ii) Arima Model</b></h4><br>
+Arima, abbreviated as Auto Regressive Integrated Moving Average. It is a machine learning algorithm extensively used in forecasting with the available time series
+statistical data. It captures the distinct level of profane structures. <br>
+Expansion of Acronym –
+i)<b>AR: Autoregression </b>– specifies the relation among some random observations & lagged observations.<br>
+ii)<b> I: Integrated </b>– involves differentiating the raw observations.<br>
+iii)<b> MA: Moving Average </b>– it is dependent on two factors: Observations & the residual errors.
